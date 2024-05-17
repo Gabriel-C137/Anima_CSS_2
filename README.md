@@ -1,6 +1,6 @@
 # Anima_CSS_1
 Animação Feita por mim utilizando apenas CSS e HTML, representa o magnetismo.<br>
-Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy)
+Feito pelo [| Codepen |](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy)
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="100" height="100" /></div>
@@ -26,7 +26,7 @@ Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy)
 Esse também não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla 
 Firefox e/ou Microsoft Edge)<br>
 <br>
-Entre aqui no meu projeto, [Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy) 
+Entre aqui no meu projeto, [| Codepen |](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy) 
 <hr>
 <br>
 
