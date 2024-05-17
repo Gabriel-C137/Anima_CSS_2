@@ -4,7 +4,7 @@ Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy)
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="100" height="100" /></div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center"> GABRIEL CAMARA DE OLIVEIRA </div>
 ----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
