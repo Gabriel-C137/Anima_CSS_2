@@ -24,7 +24,9 @@ Feito pelo [|Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy)
 ### 📋 Pré-requisitos:
 
 Esse também não é nessesário nenhuma pré-instalação para a execução/vizualização desse projeto, basta um navegador de internet (como Google Chrome, Mozilla 
-Firefox e/ou Microsoft Edge)
+Firefox e/ou Microsoft Edge)<br>
+<br>
+Entre aqui no meu projeto, [Codepen](https://codepen.io/sawwzozo-the-vuer/pen/mdYepVy) 
 <hr>
 <br>
 
