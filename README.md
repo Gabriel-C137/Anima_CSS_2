@@ -30,6 +30,7 @@ Firefox e/ou Microsoft Edge)
 <br>
 
 <div align="center">Arma de stormtrooper atirando</div>
+
 ![17ee0623-2ebb-40fb-9ce6-c3350c7e3f5f](https://github.com/Gabriel-C137/Anima_CSS_2/assets/91295561/db4cd743-d45b-421b-ab01-6454bc1dd029)
 
 
